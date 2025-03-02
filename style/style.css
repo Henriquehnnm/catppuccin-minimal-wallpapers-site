@@ -92,8 +92,7 @@
   }
 
   nav a:hover {
-    background-image: linear-gradient(to right, var(--mauve), var(--maroon) );
-    color: var(--crust);
+    color: var(--mauve);
     padding: 10px;
   }
 
